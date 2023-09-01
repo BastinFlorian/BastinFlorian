@@ -6,6 +6,7 @@ Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com
 - 🎓 [Professional Data Engineer Certification GCP](https://www.credential.net/a2ad7306-4db6-4719-aaa6-55dd7ac6a143?key=854bf7f340e68ea289c1dc1299f9f2ac459063e54581c5a4b25b72215730114f)
 
 ## Previous customers 
+- 💄 Chanel - Deep Learning Engineer
 - 🏄🏻 Club Med - Tech Lead Data 
 - 🍏 Casino - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
 - 📰 Le Monde - Tech Lead Data 
