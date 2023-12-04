@@ -6,13 +6,15 @@ Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com
 - 🎓 [Professional Data Engineer Certification GCP](https://www.credential.net/a2ad7306-4db6-4719-aaa6-55dd7ac6a143?key=854bf7f340e68ea289c1dc1299f9f2ac459063e54581c5a4b25b72215730114f)
 
 ## Previous customers 
-- 💄 Chanel - Deep Learning Engineer
+- 🧋 Retail - LLM Engineer
+- 💄 Luxe - Deep Learning Engineer
 - 🏄🏻 Club Med - Tech Lead Data 
 - 🍏 Casino - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
 - 📰 Le Monde - Tech Lead Data 
 
 
 ## Recent projects 
+- 🤖 [RAG based Chatbot on GCP](https://github.com/BastinFlorian/RAG-on-GCP-with-VertexAI) - RAG Chatbot deployment whith feedback/ evaluation loop in GCP 
 - ❓ [LLM - Confluence Help Desk](https://github.com/BastinFlorian/RAG-Chatbot-with-Confluence) - Using RAG for your company Confluence Help Desk bot. [My LangChain PR](https://github.com/langchain-ai/langchain/pull/8246) 
 - 📲 [LLM - Smartphone Advisor](https://github.com/BastinFlorian/LLMs/tree/main/use_cases/smartphone_advisor) - Using RAG with Open AI LLM & Embeddings from Youtube Videos for smartphones technical advices  
 - 🌍 [Image Retrieval System](https://github.com/BastinFlorian/ImageRetrieval) - VIT and FAISS for image retrieval
