@@ -8,9 +8,9 @@ Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com
 ## Previous customers 
 - 🧋 Retail - LLM Engineer
 - 💄 Luxe - Deep Learning Engineer
-- 🏄🏻 Club Med - Tech Lead Data 
-- 🍏 Casino - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
-- 📰 Le Monde - Tech Lead Data 
+- 🏄🏻 Hotel - Tech Lead Data 
+- 🍏 Retail - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
+- 📰 Newspaper - Tech Lead Data 
 
 
 ## Recent projects 
