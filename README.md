@@ -12,10 +12,15 @@ Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com
 - 🍏 Retail - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
 - 📰 Newspaper - Tech Lead Data 
 
+## Articles 
+- [How to use multimodal to improve RAG chatbot for unstructured documents](https://blog.octo.com/comment-utiliser-le-mutlimodal-pour-ameliorer-un-chatbot-rag)
+- [Rag basics with LangChain](https://blog.octo.com/le-chatbot-docto-langchain-rag-et-code-associe)
 
 ## Recent projects 
-- 🤖 [RAG based Chatbot on GCP](https://github.com/BastinFlorian/RAG-on-GCP-with-VertexAI) - RAG Chatbot deployment whith feedback/ evaluation loop in GCP 
-- ❓ [LLM - Confluence Help Desk](https://github.com/BastinFlorian/RAG-Chatbot-with-Confluence) - Using RAG for your company Confluence Help Desk bot. [My LangChain PR](https://github.com/langchain-ai/langchain/pull/8246) 
+- 📰 [How to use multimodal to improve RAG chatbot for unstructured documents](https://github.com/BastinFlorian/multimodal-analysis-for-table-and-charts-gpt4-vision) - Multimodal analysis for image and table extractions in PDF and PPTX
+- 🤖 [Multimodal image & table summarization from PDF and PPTX](https://github.com/BastinFlorian/multimodal-analysis-for-table-and-charts-gpt4-vision) - Multimodal analysis for image and table extractions in PDF and PPTX
+- 🤖 [RAG based Chatbot on GCP](https://github.com/BastinFlorian/RAG-on-GCP-with-VertexAI) - RAG Chatbot deployment whith feedback/ evaluation loop in GCP
+- 📰 [LLM - Confluence Help Desk](https://github.com/BastinFlorian/RAG-Chatbot-with-Confluence) - Using RAG for your company Confluence Help Desk bot. [My LangChain PR](https://github.com/langchain-ai/langchain/pull/8246)
 - 📲 [LLM - Smartphone Advisor](https://github.com/BastinFlorian/LLMs/tree/main/use_cases/smartphone_advisor) - Using RAG with Open AI LLM & Embeddings from Youtube Videos for smartphones technical advices  
 - 🌍 [Image Retrieval System](https://github.com/BastinFlorian/ImageRetrieval) - VIT and FAISS for image retrieval
 <br>
