@@ -17,6 +17,7 @@ Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com
 - [Rag basics with LangChain](https://blog.octo.com/le-chatbot-docto-langchain-rag-et-code-associe)
 
 ## Recent projects 
+- 📰 [Basic fees extractor in PDF](https://github.com/BastinFlorian/OCR-LLM) - Use DocumentAI, GPT 3.5 and GPT 4 to extract, improve and detect fees in long pdf
 - 📰 [How to use multimodal to improve RAG chatbot for unstructured documents](https://github.com/BastinFlorian/multimodal-analysis-for-table-and-charts-gpt4-vision) - Multimodal analysis for image and table extractions in PDF and PPTX
 - 🤖 [Multimodal image & table summarization from PDF and PPTX](https://github.com/BastinFlorian/multimodal-analysis-for-table-and-charts-gpt4-vision) - Multimodal analysis for image and table extractions in PDF and PPTX
 - 🤖 [RAG based Chatbot on GCP](https://github.com/BastinFlorian/RAG-on-GCP-with-VertexAI) - RAG Chatbot deployment whith feedback/ evaluation loop in GCP
