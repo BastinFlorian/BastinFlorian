@@ -1,5 +1,9 @@
 # 👋  I'm Florian
 
+# Dauphine Tunis master 2 students:
+- GCP Cloud exercices repository [Here](https://github.com/BastinFlorian/GenAI-GCP)
+- GCP Gen AI exercices repository [Here](https://github.com/BastinFlorian/GenAI-Dauphine-Course)
+
 ## About me
 Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com/)
 - 🎓 [Professional Machine Learning Engineer Certification GCP](https://www.credential.net/eb37b6f2-3dd1-4b0b-8efb-425b2d0d5140?key=c2f3b00c781692d6dee82f2a296ce051cb9f3a09a5fb58e77e9e1bbfcbbefbf4)
