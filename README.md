@@ -1,10 +1,4 @@
-  # 👋 Hi, I'm Florian Bastin
-
-  ## 🎯 LLM Engineer
-
-  Passionate about building intelligent systems with cutting-edge AI technologies. I specialize in generative AI, multimodal applications, and scalable data solutions on cloud platforms.
-
-  ---
+  # 👋 Hi, I'm Florian Bastin, LLM Engineer
 
   ## 🎓 Teaching & Education
 
