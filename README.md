@@ -1,28 +1,12 @@
 # 👋  I'm Florian
 
 # Dauphine Tunis master 2 students:
-2025-2026:
+**2025-2026:**
 - Generative AI exercices repository [Here](https://github.com/BastinFlorian/Langchain-Langgraph-courses/tree/main)
 
-2024-2025:
+**2024-2025:**
 - GCP Cloud exercices repository [Here](https://github.com/BastinFlorian/GenAI-GCP)
 - GCP Gen AI exercices repository [Here](https://github.com/BastinFlorian/GenAI-Dauphine-Course)
-
-## About me
-Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com/)
-- 🎓 [Professional Machine Learning Engineer Certification GCP](https://www.credential.net/eb37b6f2-3dd1-4b0b-8efb-425b2d0d5140?key=c2f3b00c781692d6dee82f2a296ce051cb9f3a09a5fb58e77e9e1bbfcbbefbf4)
-- 🎓 [Professional Data Engineer Certification GCP](https://www.credential.net/a2ad7306-4db6-4719-aaa6-55dd7ac6a143?key=854bf7f340e68ea289c1dc1299f9f2ac459063e54581c5a4b25b72215730114f)
-
-## Previous customers 
-- 🧋 Retail - LLM Engineer
-- 💄 Luxe - Deep Learning Engineer
-- 🏄🏻 Hotel - Tech Lead Data 
-- 🍏 Retail - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
-- 📰 Newspaper - Tech Lead Data 
-
-## Articles 
-- [How to use multimodal to improve RAG chatbot for unstructured documents](https://blog.octo.com/comment-utiliser-le-mutlimodal-pour-ameliorer-un-chatbot-rag)
-- [Rag basics with LangChain](https://blog.octo.com/le-chatbot-docto-langchain-rag-et-code-associe)
 
 ## Recent projects 
 - 📰 [Basic fees extractor in PDF](https://github.com/BastinFlorian/OCR-LLM) - Use DocumentAI, GPT 3.5 and GPT 4 to extract, improve and detect fees in long pdf
@@ -40,6 +24,22 @@ Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com
   </a> 
 </div>
 <br>
+
+## About me
+Data Scientist & Engineer [Octo Technology - Part of Accenture](https://octo.com/)
+- 🎓 [Professional Machine Learning Engineer Certification GCP](https://www.credential.net/eb37b6f2-3dd1-4b0b-8efb-425b2d0d5140?key=c2f3b00c781692d6dee82f2a296ce051cb9f3a09a5fb58e77e9e1bbfcbbefbf4)
+- 🎓 [Professional Data Engineer Certification GCP](https://www.credential.net/a2ad7306-4db6-4719-aaa6-55dd7ac6a143?key=854bf7f340e68ea289c1dc1299f9f2ac459063e54581c5a4b25b72215730114f)
+
+## Previous customers 
+- 🧋 Retail - LLM Engineer
+- 💄 Luxe - Deep Learning Engineer
+- 🏄🏻 Hotel - Tech Lead Data 
+- 🍏 Retail - Data Engineer - [Beam Summit 2023 Speaker - New York ](https://beamsummit.org/speakers/florian-bastin/)
+- 📰 Newspaper - Tech Lead Data 
+
+## Articles 
+- [How to use multimodal to improve RAG chatbot for unstructured documents](https://blog.octo.com/comment-utiliser-le-mutlimodal-pour-ameliorer-un-chatbot-rag)
+- [Rag basics with LangChain](https://blog.octo.com/le-chatbot-docto-langchain-rag-et-code-associe)
 
 ## How to connect
 - [LinkedIn](https://www.linkedin.com/in/florian-bastin-08940b131/)
