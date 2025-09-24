@@ -1,6 +1,10 @@
 # 👋  I'm Florian
 
 # Dauphine Tunis master 2 students:
+2025-2026:
+- Generative AI exercices repository [Here](https://github.com/BastinFlorian/Langchain-Langgraph-courses/tree/main)
+
+2024-2025:
 - GCP Cloud exercices repository [Here](https://github.com/BastinFlorian/GenAI-GCP)
 - GCP Gen AI exercices repository [Here](https://github.com/BastinFlorian/GenAI-Dauphine-Course)
 
