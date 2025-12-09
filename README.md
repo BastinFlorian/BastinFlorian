@@ -9,6 +9,8 @@
     - 7 LangChain fundamentals modules
     - 4 LangGraph advanced workflows
     - Production-ready examples with observability
+   
+  - 📋 **[Generative AI Project](https://github.com/BastinFlorian/dauphine-project-iasd-2025)** - (Multi) Agent project for a fake TelecomPlus company
 
   **2024-2025: Google Cloud Platform**
   - ☁️ **[GCP Cloud Engineering](https://github.com/BastinFlorian/GenAI-GCP)** - Infrastructure and deployment
