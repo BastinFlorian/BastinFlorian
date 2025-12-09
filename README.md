@@ -6,10 +6,6 @@
 
   **2025-2026: Generative AI & LLM Applications**
   - 🤖 **[LangChain & LangGraph Tutorials](https://github.com/BastinFlorian/Langchain-Langgraph-courses)** - Complete hands-on tutorials for building AI applications with Google Gemini
-    - 7 LangChain fundamentals modules
-    - 4 LangGraph advanced workflows
-    - Production-ready examples with observability
-   
   - 📋 **[Generative AI Project](https://github.com/BastinFlorian/dauphine-project-iasd-2025)** - (Multi) Agent project for a fake TelecomPlus company
 
   **2024-2025: Google Cloud Platform**
